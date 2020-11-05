@@ -12,4 +12,4 @@ Anyone is going to experience this, but it's important to reflect and not get fr
 # Git Stuff
 I mostly get the idea of the git workflow but I'm still confused about how to work with it. Obviously copying and pasting things into github
 is not a productive workflow. I'll leave it with this project since I want to get in the habit of publishing to github but also don't
-want to bother too much posting this huge unavigatable project. I will get better with this.
+want to bother too much posting this huge unavigatable project. I will get better with this. (11/5/20, project finished last week)
